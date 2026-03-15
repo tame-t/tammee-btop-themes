@@ -4,4 +4,5 @@
 # This commmand is for git clone it to ~/.config/btop:
 
 sudo rm -rf ~/.config/btop
+
 sudo git clone https://github.com/tame-t/tammee-btop-themes ~/.config/btop
