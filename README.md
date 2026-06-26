@@ -1,8 +1,10 @@
 <div align="center">
 
-<h1>tammee · Cool White Blue</h1>
+<h1>tammee Cool White Blue</h1>
 
 <p>A clean, icy <a href="https://github.com/aristocratos/btop">btop</a> theme inspired by snow and arctic skies — built on a cool Nord-style palette.</p>
+
+<img src="preview.png" alt="Theme Preview" width="800" />
 
 </div>
 
