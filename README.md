@@ -31,7 +31,7 @@
 
 ```bash
 cd ~
-sudo rm -rf ~/.config/btop/
+sudo rm -rf ~/.config/btop
 sudo mkdir ~/.config/btop
 sudo git clone https://github.com/tame-t/tammee-btop-themes ~/.config/btop
 ```
