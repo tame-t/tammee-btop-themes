@@ -30,7 +30,7 @@
 > Installs the theme by replacing your btop config directory. **This will overwrite any existing btop config.**
 
 ```bash
-sudo rm -rf ~/.config/btop && sudo git clone https://github.com/tame-t/tammee-btop-themes ~/.config/btop
+sudo rm -rf ~/.config/btop/* && sudo git clone https://github.com/tame-t/tammee-btop-themes ~/.config/btop
 ```
 
 After cloning, open btop and set the theme:
