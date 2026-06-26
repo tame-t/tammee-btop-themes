@@ -31,8 +31,7 @@
 
 ```bash
 sudo rm -rf ~/.config/btop/
-sudo mkdir ~/.config/btop
-sudo git clone https://github.com/tame-t/tammee-btop-themes ~/.config/btop
+sudo mkdir ~/.config/btop && sudo git clone https://github.com/tame-t/tammee-btop-themes ~/.config/btop
 ```
 
 After cloning, open btop and set the theme:
