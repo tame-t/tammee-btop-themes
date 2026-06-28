@@ -38,9 +38,9 @@ sudo git clone https://github.com/tame-t/tammee-btop-themes ~/.config/btop
 
 After cloning, open btop and set the theme:
 
-1. Press `ESC` to open the menu
-2. Go to **Options**
-3. Under **Color theme**, select `tammee-CoolWhiteBlue`
+1. Exit btop by pressing “q”
+2. Then run the (btop) command once again.
+3. Enjoy your very cool too theme.
 
 ---
 
