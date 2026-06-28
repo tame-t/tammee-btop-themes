@@ -39,7 +39,7 @@ sudo git clone https://github.com/tame-t/tammee-btop-themes ~/.config/btop
 After cloning, open btop and set the theme:
 
 1. Exit btop by pressing “q”
-2. Then run the ```bash btop``` command once again.
+2. Then run the ``` btop``` command once again.
 3. Enjoy your very cool too theme.
 
 ---
